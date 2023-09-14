@@ -5,8 +5,8 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GabrielPrompt&hide=contribs,prs&show_icons=true&theme=dracula)
 
 <div>
-  <img height="180em" scr= "https://github-readme-stats.vercel.app/api?username=GabrielPrompt&hide=contribs,prs"/>
-  <img height="180em" scr= "https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielPrompt)]        (https://github.com/anuraghazra/github-readme-stats"/>
+  <img  scr= "https://github-readme-stats.vercel.app/api?username=GabrielPrompt&hide=contribs,prs"/>
+  <img  scr= "https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielPrompt)]        (https://github.com/anuraghazra/github-readme-stats"/>
 </div>
 
 <div style="display: inline_block"><br>
