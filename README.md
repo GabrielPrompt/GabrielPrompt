@@ -23,7 +23,7 @@
     <a href = "mailto: gabrielbcamargo144.gmail.com">
       <img width="30" src="gmail.svg">
     </a>
-    <a href = ""https://www.linkedin.com/in/gabriel-bueno-de-camargo-417347291/"">
+    <a href = "https://www.linkedin.com/in/gabriel-bueno-de-camargo-417347291/">
       <img width="25" src="linkedin.svg">
     </a>
     </a>
